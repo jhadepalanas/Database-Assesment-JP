@@ -22,4 +22,4 @@ def print_query(view_name:str):
     print(tabulate(results,headings))
     db.close()
 
-print_query('all data')
+print_query('brief info')
