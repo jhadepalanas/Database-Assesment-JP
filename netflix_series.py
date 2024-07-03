@@ -26,7 +26,7 @@ menu_choice =''
 while menu_choice !='z':
     menu_choice = input('Welcome to the Netflix Series database\n\b'
                         'Type the letter for the information you want:\n'
-                        'A: All the music Netflix series database.\n'
+                        'A: All the Netflix series database.\n'
                         'B: Seasons arranged from smallest to biggest.\n'
                         'C: Brief information about the Netflix database.\n'
                         'D: Netflix Series whose genre is fantasy.\n'
