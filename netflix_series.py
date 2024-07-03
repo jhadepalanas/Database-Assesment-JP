@@ -42,7 +42,7 @@ while menu_choice !='z':
     if menu_choice == 'A':
         print_query('all data')
     if menu_choice == 'B':
-        print_query('arrange the seasons from smallest first')
+        print_query('arrange the seasons')
     if menu_choice == 'C':
         print_query('brief info')
     if menu_choice == 'D':
