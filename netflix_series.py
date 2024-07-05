@@ -23,7 +23,7 @@ def print_query(view_name:str):
     db.close()
 
 menu_choice =''
-while menu_choice !='z':
+while menu_choice !='Z':
     menu_choice = input('Welcome to the Netflix Series database\n\b'
                         'Type the letter for the information you want:\n'
                         'A: All the Netflix series database.\n'
