@@ -58,6 +58,6 @@ while menu_choice !='z':
     if menu_choice == 'I':
         print_query('released before 2020')
     if menu_choice == 'J':
-        print_query('speaks English')
+        print_query('English language')
     if menu_choice == 'K':
-        print_query('speaks Korean')
+        print_query('Korean language')
